@@ -9,4 +9,4 @@ Run individual cells linearly - from the top down. If you skip any cells, it cou
 All rights to this material and its parts reserved by the authors:
 - Róbert Barcík (robert@authenticdatascience.com) 
 - Patrik Žatko (patrik@authenticdatascience.com)
-- Jana Gecelovská (janka@authenticdatascience.com)# demo
+- Jana Gecelovská (janka@authenticdatascience.com)
